@@ -19,6 +19,9 @@
   To install this application, you can clone the GitHub repository and run `npm install` to install the required dependencies.
 
   ## Usage
+  
+  <img width="683" alt="image" src="https://user-images.githubusercontent.com/109747300/236317781-d409166b-d274-4904-8205-bcf7e11b8df4.png">
+
 
   [Video Tutorial](https://drive.google.com/file/d/1sdS3mg-eZ6YJ9wpefzQWKR9uGKeodwHA/view)
 
